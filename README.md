@@ -39,18 +39,18 @@ pitted_surface, rolled-in_scale, scratches) با استفاده از ترنسف�
 | rolled-in_scale | 0.60 |
 | crazing | 0.39 |
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### نمونه‌ی پیش‌بینی روی عکس واقعی (سمت چپ = واقعیت، سمت راست = پیش‌بینی مدل)
 
 **نمونه‌ی موفق (patches):**
-![Sample Success Patches](assets/sample_success_patches.jpg)
+![Sample Success Patches](sample_success_patches.jpg)
 
 **نمونه‌ی موفق (inclusion):**
-![Sample Success Inclusion](assets/sample_success_inclusion.jpg)
+![Sample Success Inclusion](sample_success_inclusion.jpg)
 
 **نمونه‌ی ناموفق (crazing) — نشان‌دهنده‌ی دقیق همان محدودیتی که در بخش زیر تحلیل شده:**
-![Sample Failure Crazing](assets/sample_failure_crazing.jpg)
+![Sample Failure Crazing](sample_failure_crazing.jpg)
 
 ## درس‌های کلیدی و تحلیل خطا (این بخش رو حتماً بخون)
 
